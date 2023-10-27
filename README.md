@@ -1,5 +1,4 @@
-
-<img src="https://github.com/MalhotraNitesh2/AirBnbClone/assets/57388983/64b60583-3b60-44e0-a25e-217be91124f2" width="100" height="100">
+![1](https://github.com/MalhotraNitesh2/AirBnbClone/assets/57388983/44253d1d-01a4-45e7-87e1-b2499913ac66 =100x100)
 ![2](https://github.com/MalhotraNitesh2/AirBnbClone/assets/57388983/abd89366-31fc-4067-9265-69bde55ab983)
 ![3](https://github.com/MalhotraNitesh2/AirBnbClone/assets/57388983/acf61e08-0ffd-47f9-bfa5-136d64e83bfb)
 ![4](https://github.com/MalhotraNitesh2/AirBnbClone/assets/57388983/f8940296-99ac-42f4-a93a-6bb12d2aea8c)
